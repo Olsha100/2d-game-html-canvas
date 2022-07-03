@@ -167,6 +167,3 @@ addEventListener('keyup', ({key})=>{
 			break
 	}
 })
-
-
-console.log(platform)
